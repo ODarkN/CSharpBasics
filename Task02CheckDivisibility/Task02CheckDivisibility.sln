@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02CheckDivisibility", "Task02CheckDivisibility.csproj", "{5A9A07BC-7EF4-46B8-8B69-E6EFBADE9992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A9A07BC-7EF4-46B8-8B69-E6EFBADE9992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9A07BC-7EF4-46B8-8B69-E6EFBADE9992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9A07BC-7EF4-46B8-8B69-E6EFBADE9992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9A07BC-7EF4-46B8-8B69-E6EFBADE9992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {819D035E-F2B2-478C-9099-F96CA653A069}
+	EndGlobalSection
+EndGlobal
