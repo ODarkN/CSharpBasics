@@ -2,26 +2,26 @@
 
 /*
 Author: ODarkN
-Task 3: Check the Number of Solutions of a Quadratic Equation
+
+Task 3: Quadratic Equation
 This program asks the user to enter three values (a, b, c) representing
 coefficients of a quadratic equation ax² + bx + c = 0 and determines
 how many real solutions the equation has, based on the discriminant Δ.
 
-Requirements:
+Requirements: 
 - Inputs must be valid numbers.
 - The program must calculate the discriminant: Δ = b² – 4ac.
-- Output:
-  • "Two real solutions"      if Δ > 0
-  • "One real solution"       if Δ == 0
-  • "No real solutions"       if Δ < 0
+- Output: "Two real solutions" if Δ > 0, "One real solution" if Δ == 0, "No real solutions" if Δ < 0.
 */
 
 class Task03QuadraticEquation
 {
     static void Main()
     {
-        Console.WriteLine("Task 3: Determine the number of real solutions of a quadratic equation based on its coefficients.");
+        // Task welcome prompt
+        Console.WriteLine("Task 3: Determine the number of real solutions of a quadratic equation.");
 
+        // Variable declaration
         double a, b, c;
 
         // Get double 'a'
